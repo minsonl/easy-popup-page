@@ -1,6 +1,6 @@
 {
   "name": "easy-popup-page",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "private": false,
   "description": "easy-popup-page",
   "main": "lib/easy-popup-page.umd.min.js",
