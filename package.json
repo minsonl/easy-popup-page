@@ -1,0 +1,23 @@
+{
+  "name": "easy-popup-page",
+  "version": "0.1.6",
+  "private": false,
+  "description": "easy-popup-page",
+  "main": "lib/easy-popup-page.umd.min.js",
+  "license": "MIT",
+  "author": "minsonli",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lib": "vue-cli-service build --target lib --name easy-popup-page --dest lib packages/index.js"
+  },
+  "dependencies": {
+    "core-js": "^3.3.2",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.0.0",
+    "@vue/cli-service": "^4.0.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
